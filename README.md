@@ -28,7 +28,8 @@
 
   ## Links
   GitHub: https://github.com/TimAspesberro/Readme-Generator
-
+  Video Functionality: https://youtu.be/16QIoZLKQkM
+  
   ## Notes
   A sample of a finished output of this project can be found under the name readmegenerator.md
 
