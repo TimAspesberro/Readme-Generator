@@ -30,6 +30,6 @@
   GitHub: https://github.com/TimAspesberro/Readme-Generator
 
   ## Notes
-  A sample of a finished output of this project can be found under the name samplereadme.md
+  A sample of a finished output of this project can be found under the name readmegenerator.md
 
 
